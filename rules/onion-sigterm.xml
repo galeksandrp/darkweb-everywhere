@@ -1,4 +1,4 @@
-<ruleset name="Sigterm Onion">
+<ruleset name="Sigterm Onion" default_off="check fail">
 	<target host="sigterm.no" />
 	<target host="www.sigterm.no" />
 	<rule from="^https?://(www\.)?sigterm\.no/" to="http://sigtermu2osxhujr.onion/" />
@@ -7,3 +7,4 @@
 * **Sigterm**
 	* Documented here: <https://sigterm.no> ([A](https://archive.today/N83uK))
 	-->
+

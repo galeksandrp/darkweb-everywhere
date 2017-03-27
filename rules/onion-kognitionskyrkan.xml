@@ -1,4 +1,4 @@
-<ruleset name="Kognitionskyrkan Onion">
+<ruleset name="Kognitionskyrkan Onion" default_off="check fail">
 	<target host="kognitionskyrkan.nu" />
 	<target host="www.kognitionskyrkan.nu" />
 	<rule from="^https?://(www\.)?kognitionskyrkan\.nu/" to="http://wd43uqrbjwe6hpre.onion/" />
@@ -7,3 +7,4 @@
 * **Kognitionskyrkan**
 	* Documented here: <http://kognitionskyrkan.nu/1.0/> ([A](https://archive.today/GJH5m))
 	-->
+

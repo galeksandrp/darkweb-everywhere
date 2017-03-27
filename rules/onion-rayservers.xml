@@ -1,4 +1,4 @@
-<ruleset name="Rayservers Onion">
+<ruleset name="Rayservers Onion" default_off="check fail">
 	<target host="mail.rayservers.com" />
 	<target host="roundcube.rayservers.com" />
 	<target host="altmail.rayservers.com" />
@@ -8,3 +8,4 @@
 * **Rayservers**
 	* Documented here: <http://www.rayservers.com/e-mail> ([A](https://archive.today/M4rd3))
 	-->
+

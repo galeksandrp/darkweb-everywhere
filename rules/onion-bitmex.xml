@@ -1,4 +1,4 @@
-<ruleset name="BitMEX Onion">
+<ruleset name="BitMEX Onion" default_off="check fail">
   <target host="bitmex.com" />
   <target host="www.bitmex.com" />
   <target host="testnet.bitmex.com" />
@@ -9,3 +9,4 @@
   <rule from="^https?://testnet\.bitmex\.com/"
     to="http://bitmex4t4fsbdufo.onion:3080/" />
 </ruleset>
+

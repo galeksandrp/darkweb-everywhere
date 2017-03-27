@@ -1,4 +1,4 @@
-<ruleset name="MacLemon Onion">
+<ruleset name="MacLemon Onion" default_off="check fail">
 	<target host="maclemon.at" />
 	<target host="www.maclemon.at" />
 	<rule from="^https?://(www\.)?maclemon\.at/" to="http://fzybdgczph7xfdnr.onion/" />
@@ -7,3 +7,4 @@
 * **MacLemon**
 	* Documented here: <https://maclemon.at/> ([A](https://archive.today/AT2gK))
 	-->
+

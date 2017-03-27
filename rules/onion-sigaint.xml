@@ -1,4 +1,4 @@
-<ruleset name="SIGAINT Onion">
+<ruleset name="SIGAINT Onion" default_off="check fail">
 	<target host="sigaint.org" />
 	<target host="www.sigaint.org" />
 	<rule from="^https?://(www\.)?sigaint\.org/" to="http://sigaintevyh2rzvw.onion/" />
@@ -7,3 +7,4 @@
 * **SIGAINT**
 	* Documented here: <http://sigaint.org> ([A](https://archive.today/70rSq))
 	-->
+

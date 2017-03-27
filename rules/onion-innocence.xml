@@ -1,4 +1,4 @@
-<ruleset name="Innocense Onion" >
+<ruleset name="Innocense Onion" default_off="check fail">
 	<target host="innocence.se" />
 	<target host="www.innocence.se" />
 	<rule from="^http?://(www\.)?innocence\.se/" to="http://inocncymyac2mufx.onion/" />
@@ -7,3 +7,4 @@
 * **Innocense**
 	* Documented here: <http://www.innocence.se/>
 	-->
+

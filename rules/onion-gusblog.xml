@@ -1,4 +1,4 @@
-<ruleset name="Gus' Blog Onion" >
+<ruleset name="Gus' Blog Onion" default_off="check fail">
 	<target host="gus.distopico.net" />
 	<rule from="^https?://(www\.)?gus.distopico\.net/" to="http://ufufdbacqmcvsrwp.onion/" />
 </ruleset>
@@ -6,3 +6,4 @@
 * **Gus' Blog**
 	* Documented on main page of site: <http://gus.distopico.net/> ([A](https://archive.today/HSNQV))
 		-->
+

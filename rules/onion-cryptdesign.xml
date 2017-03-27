@@ -1,4 +1,4 @@
-<ruleset name="Crypt Design Onion">
+<ruleset name="Crypt Design Onion" default_off="check fail">
 	<target host="cryptdesign.com" />
 	<target host="www.cryptdesign.com" />
 	<rule from="^https?://(www\.)?cryptdesign\.com/" to="http://cryptdsnti5lzfwl.onion/" />
@@ -7,3 +7,4 @@
 * **Crypt Design**
 	* Documented here: <http://cryptdesign.com/> ([A](https://archive.today/HKEqC))
 	-->
+

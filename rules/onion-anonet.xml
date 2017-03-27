@@ -1,4 +1,4 @@
-<ruleset name="Anonet Onion">
+<ruleset name="Anonet Onion" default_off="check fail">
 	<target host="anonet2.biz" />
 	<target host="www.anonet2.biz" />
 	<target host="irc.anonet2.biz" />
@@ -8,3 +8,4 @@
 * **Anonet**
 	* Documented here: <http://anonet2.biz> ([A](https://archive.today/lkW0u))
 	-->
+

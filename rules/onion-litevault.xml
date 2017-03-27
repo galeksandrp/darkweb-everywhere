@@ -1,4 +1,4 @@
-<ruleset name="Litevault Onion">
+<ruleset name="Litevault Onion" default_off="check fail">
 	<target host="litevault.net" />
 	<target host="www.litevault.net" />
 	<rule from="^https?://(www\.)?litevault\.net/" to="http://vaultu7dxw5bbg37.onion/" />
@@ -7,3 +7,4 @@
 * **Litevault Onion**
 	* Documented here: <https://www.litevault.net/about/hidden-service> ([A](https://archive.today/W0upr))
 	-->
+

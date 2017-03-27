@@ -1,4 +1,4 @@
-<ruleset name="Bluish Coder Onion">
+<ruleset name="Bluish Coder Onion" default_off="check fail">
 	<target host="bluishcoder.co.nz" />
 	<target host="www.bluishcoder.co.nz" />
 	<rule from="^https?://(www\.)?bluishcoder\.co\.nz/" to="http://mh7mkfvezts5j6yu.onion/" />
@@ -7,3 +7,4 @@
 * **Bluish Coder**
 	* Documented here: <http://bluishcoder.co.nz> ([A](https://archive.today/lR9nt))
 	-->
+

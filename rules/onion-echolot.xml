@@ -1,4 +1,4 @@
-<ruleset name="Echolot Onion">
+<ruleset name="Echolot Onion" default_off="check fail">
 	<target host="echolot.theremailer.net" />
 	<target host="echolot.anon-proxy.de" />
 	<rule from="^https?://echolot\.(theremailer\.net|anon-proxy\.de)/" to="http://zvrqjaxpgxglgjrz.onion/" />
@@ -7,3 +7,4 @@
 * **Echolot**
 	* Documented here: <http://echolot.theremailer.net> ([A](https://archive.today/Rct0U))
 	-->
+

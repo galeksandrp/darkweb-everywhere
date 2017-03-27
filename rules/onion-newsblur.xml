@@ -1,4 +1,4 @@
-<ruleset name="NewsBlur Onion">
+<ruleset name="NewsBlur Onion" default_off="check fail">
 	<target host="newsblur.com" />
 	<target host="www.newsblur.com" />
 	<rule from="^https?://(www\.)?newsblur\.com/" to="http://vysoofjtouvo2bl3.onion/" />
@@ -7,3 +7,4 @@
 * **NewsBlur**
 	* Documented here: <https://twitter.com/NewsBlur/status/387376786247393280> ([A](https://archive.today/6xky6))
 	-->
+

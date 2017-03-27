@@ -1,4 +1,4 @@
-<ruleset name="Raegdan's Fukken Saved Onion">
+<ruleset name="Raegdan's Fukken Saved Onion" default_off="check fail">
 	<target host="fsaved.raegdan.org" />
 	<target host="www.fsaved.raegdan.org" />
 	<rule from="^https?://(www\.)?fsaved.raegdan\.org/" to="http://fsavedwtb3oiq6vn.onion/" />
@@ -7,3 +7,4 @@
 * **Raegdan's Fukken Saved Onion**
 	* Documented here: <https://fsaved.raegdan.org/> ([A](https://archive.today/L0bCT))
 	-->
+

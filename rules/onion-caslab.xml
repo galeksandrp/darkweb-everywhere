@@ -1,4 +1,4 @@
-<ruleset name="CAS Lab Onion">
+<ruleset name="CAS Lab Onion" default_off="check fail">
 	<target host="caslab.eng.yale.edu" />
 	<rule from="^https?://caslab\.eng\.yale\.edu/" to="http://xtyazgdnzt6acu3g.onion/" />
 </ruleset>
@@ -6,3 +6,4 @@
 * **CAS Lab**
 	* Documented here: <http://caslab.eng.yale.edu/> ([A](https://archive.today/CSbss))
 	-->
+

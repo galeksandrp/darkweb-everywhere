@@ -1,4 +1,4 @@
-<ruleset name="Cat out of the Bag Onion">
+<ruleset name="Cat out of the Bag Onion" default_off="check fail">
 	<target host="catoutofthebag.info" />
 	<target host="www.catoutofthebag.info" />
 	<rule from="^https?://(www\.)?catoutofthebag\.info/" to="http://vkpriz2cjzymgpsp.onion/" />
@@ -7,3 +7,4 @@
 * **Cat out of the Bag**
 	* Documented here: <http://www.catoutofthebag.info/> ([A](https://archive.today/J3HRg))
 -->
+

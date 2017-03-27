@@ -1,4 +1,4 @@
-<ruleset name="Surveillance Law Onion">
+<ruleset name="Surveillance Law Onion" default_off="check fail">
 	<target host="surveillancelaw.org" />
 	<target host="www.surveillancelaw.org" />
 	<rule from="^https?://(www\.)?(surveillancelaw\.org)/" to="http://7vrl523532rjjznj.onion/" />
@@ -7,4 +7,5 @@
 * **Surveillance Law**
 	* Documented here: <https://surveillancelaw.org> ([A](https://archive.today/PH1WY))
 -->
+
 

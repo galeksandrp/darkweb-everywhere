@@ -1,4 +1,4 @@
-<ruleset name="Scott Arciszewski's Blog Onion">
+<ruleset name="Scott Arciszewski's Blog Onion" default_off="check fail">
 	<target host="scott.arciszewski.me" />
 	<rule from="^https?://scott\.arciszewski\.me/" to="http://kobrabd77ppgjd2r.onion/" />
 </ruleset>
@@ -6,3 +6,4 @@
 * **Scott Arciszewski's Blog**
 	* Documented Here: <https://scott.arciszewski.me/blog/2014/03/tor-hidden-service> ([A](https://archive.today/AhJhn))
 	-->
+

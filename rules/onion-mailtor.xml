@@ -1,4 +1,4 @@
-<ruleset name="Mailtor Onion">
+<ruleset name="Mailtor Onion" default_off="check fail">
 	<target host="mailtor.net" />
 	<target host="www.mailtor.net" />
 	<rule from="^https?://(www\.)?mailtor\.net/" to="http://mailtoralnhyol5v.onion/" />
@@ -7,3 +7,4 @@
 * **Mailtor**
 	* Documented here: <https://en.wikipedia.org/wiki/Mailtor> ([A](https://archive.today/HBape))
 	-->
+

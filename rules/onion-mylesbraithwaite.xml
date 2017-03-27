@@ -1,4 +1,4 @@
-<ruleset name="Myles Braithwaite Onion">
+<ruleset name="Myles Braithwaite Onion" default_off="check fail">
 	<target host="mylesbraithwaite.com" />
 	<target host="www.mylesbraithwaite.com" />
 	<rule from="^https?://(www\.)?mylesbraithwaite\.com/" to="http://gvvsa367g2zkzjj3.onion/" />
@@ -7,3 +7,4 @@
 * **Myles Braithwaite**
 	* Documented here: <https://mylesbraithwaite.com> - The site owner has uploaded a tag in the head element on his site. It should look like this: `<link rel="x-tor-hidden-service" href="gvvsa367g2zkzjj3.onion">`
 	-->
+

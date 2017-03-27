@@ -1,4 +1,4 @@
-<ruleset name="Jeremy Visser Onion">
+<ruleset name="Jeremy Visser Onion" default_off="check fail">
 	<target host="jeremy.visser.name" />
 	<rule from="^https?://jeremy\.visser\.name/" to="http://2zcjxgh6xq4o3uvl.onion/" />
 </ruleset>
@@ -6,3 +6,4 @@
 * **Jeremy Visser**
 	* Documented here: <https://jeremy.visser.name/> ([A](https://archive.today/7Rrp1)) - linked on the main page
 	-->
+

@@ -1,4 +1,4 @@
-<ruleset name="Img.bi Onion">
+<ruleset name="Img.bi Onion" default_off="check fail">
 	<target host="img.bi" />
 	<target host="www.img.bi" />
 	<rule from="^https?://(www\.)?img\.bi/" to="http://imgbifwwqoixh7te.onion/" />
@@ -7,3 +7,4 @@
 * **img.bi**
 	* Documented here: <https://img.bi> ([A](https://archive.today/Bwo1T)) - linked on the main page
 	-->
+
